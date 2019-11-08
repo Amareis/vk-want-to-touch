@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5920b8b48273caeff11d31ca78a877b5",
+    "revision": "386b5a6506625bdd3da1b260bb144653",
     "url": "/vk-want-to-touch/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vk-want-to-touch/static/js/2.38d57401.chunk.js"
   },
   {
-    "revision": "e1f237e42327a9aaad6d",
-    "url": "/vk-want-to-touch/static/js/main.9631759c.chunk.js"
+    "revision": "e16a5d9167e925015b3e",
+    "url": "/vk-want-to-touch/static/js/main.e16a7e97.chunk.js"
   },
   {
     "revision": "82a2c462ee522dba389b",
