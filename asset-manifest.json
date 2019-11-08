@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/vk-want-to-touch/static/js/main.9631759c.chunk.js",
+    "main.js.map": "/vk-want-to-touch/static/js/main.9631759c.chunk.js.map",
+    "runtime-main.js": "/vk-want-to-touch/static/js/runtime-main.6b0f0492.js",
+    "runtime-main.js.map": "/vk-want-to-touch/static/js/runtime-main.6b0f0492.js.map",
+    "static/css/2.27cde75d.chunk.css": "/vk-want-to-touch/static/css/2.27cde75d.chunk.css",
+    "static/js/2.38d57401.chunk.js": "/vk-want-to-touch/static/js/2.38d57401.chunk.js",
+    "static/js/2.38d57401.chunk.js.map": "/vk-want-to-touch/static/js/2.38d57401.chunk.js.map",
+    "index.html": "/vk-want-to-touch/index.html",
+    "precache-manifest.0817e5da6699eb6521bbcef78d1465c3.js": "/vk-want-to-touch/precache-manifest.0817e5da6699eb6521bbcef78d1465c3.js",
+    "service-worker.js": "/vk-want-to-touch/service-worker.js",
+    "static/css/2.27cde75d.chunk.css.map": "/vk-want-to-touch/static/css/2.27cde75d.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b0f0492.js",
+    "static/css/2.27cde75d.chunk.css",
+    "static/js/2.38d57401.chunk.js",
+    "static/js/main.9631759c.chunk.js"
+  ]
+}
