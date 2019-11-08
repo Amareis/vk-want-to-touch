@@ -1,7 +1,9 @@
 {
-  "name": "vk-paid-votes",
+  "name": "vk-want-to-touch",
   "version": "1.0.0",
+  "repository": "https://github.com/Amareis/vk-want-to-touch",
   "description": "",
+  "homepage": "https://Amareis.github.io/vk-want-to-touch/",
   "main": "index.ts",
   "scripts": {
     "start": "cross-env PORT=10888 react-scripts start",
